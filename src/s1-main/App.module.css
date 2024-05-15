@@ -1,5 +1,7 @@
 .App {
-    --header_height: 60px;
+  --header_height: 60px;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .hw {
@@ -7,5 +9,8 @@
 }
 
 .hwTitle {
-
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 20px;
+  font-weight: bold;
 }
