@@ -35,13 +35,11 @@ export const pureAddUserCallback = (name: string, setUsers: any, users: Array<Us
 const HW3 = () => {
   const [users, setUsers] = useState<Array<UserType>>([]) // need to fix any
 
-  const addUserCallback = (name: string) => { // need to fix any
-    pureAddUserCallback(name, setUsers, users)
-  }
+  const addUserCallback = (name: string) => pureAddUserCallback(name, setUsers, users)
 
   return (
     <div id={'hw3'}>
-      <div className={s2.hwTitle}>Homework #3.1</div>
+      <div className={s2.hwTitle}>Homework #3.2</div>
       {/*для автоматической проверки дз (не менять)*/}
 
       <div className={s2.hw}>
