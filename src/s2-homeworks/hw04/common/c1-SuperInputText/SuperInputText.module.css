@@ -5,16 +5,23 @@
 }
 
 .inputWrapper {
+  display: flex;
+  flex-direction: column;
 }
 
 .superInput {
 }
 
 .errorInput {
+  border: 1px solid rgba(204, 20, 57, 1);
+  order: 1;
 }
 
 .errorInput:focus {
+
 }
 
 .error {
+  color: red;
+
 }
