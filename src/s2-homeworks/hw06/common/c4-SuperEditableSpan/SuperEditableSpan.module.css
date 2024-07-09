@@ -1,10 +1,27 @@
 .spanBlock {
+  display: flex;
+  gap: 20px;
+padding: 10px;
 }
 
 .span {
+  font-size: 16px;
+  font-weight: 500;
+  color: rgba(0, 128, 255, 1);
 }
 
 .input {
+  width: 325px;
+  margin-bottom: 20px;
+
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+
+  padding: 5px 30px;
+
+  border: 1px solid rgba(0, 128, 255, 1);
+  border-radius: 4px;
 }
 
 .pen {
