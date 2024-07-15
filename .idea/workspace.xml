@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="581cc308-70ca-4869-8ab0-fc84fce64caa" name="Changes" comment="hw6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/s1-main/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s1-main/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw08/HW8.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw08/HW8.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw08/User.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw08/User.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw08/bll/homeWorkReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw08/bll/homeWorkReducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +99,7 @@
       <workItem from="1719948118724" duration="112000" />
       <workItem from="1720443612792" duration="6114000" />
       <workItem from="1720532297775" duration="2401000" />
-      <workItem from="1721039029665" duration="2002000" />
+      <workItem from="1721039029665" duration="5125000" />
     </task>
     <task id="LOCAL-00001" summary="hw6">
       <option name="closed" value="true" />
