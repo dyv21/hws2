@@ -17,7 +17,7 @@ const HW10 = () => {
   // useSelector, useDispatch // пишет студент
 
 
-  const isLoading = useSelector((state: AppStoreType) => state.loading.isLoading)
+  const isLoading = useSelector((state: AppStoreType) => state.loading.isLoading )
 
   const dispatch = useDispatch()
 
