@@ -38,7 +38,7 @@ const HW13 = () => {
           setCode('Код 200!')
 
           setInfo(res.data.info)
-          setText('...всё ок')
+          setText('...всё ок)')
           setImage(success200)
         }
       })
