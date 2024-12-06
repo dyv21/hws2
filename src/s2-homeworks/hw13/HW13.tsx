@@ -36,9 +36,8 @@ const HW13 = () => {
       .then((res) => {
         if (res.status === 200) {
           setCode('Код 200!')
-
           setInfo(res.data.info)
-          setText('...всё ок)')
+          setText(res.data.errorText)
           setImage(success200)
         }
       })
