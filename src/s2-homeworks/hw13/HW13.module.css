@@ -2,6 +2,10 @@
 }
 
 .responseContainer {
+  display: flex;
+  padding: 40px 0;
+  gap: 2rem;
+
 }
 
 .imageContainer {
@@ -11,9 +15,14 @@
 }
 
 .textContainer{
+display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 .code {
+  font-size: 2rem;
+  margin-top: 2rem;
 }
 
 .text {
