@@ -29,7 +29,7 @@ function Pages() {
 
                 {/*роут для несуществующей страницы должен отрисовать <Error404 />*/}
               <Route path={PATH.ERROR_404} element={<Error404 />}/>
-              <Route path="/*" element={<Navigate to={PATH.ERROR_404}/>}/>
+              <Route path={"*"} element={<Navigate to={PATH.ERROR_404}/>}/>
 
             </Routes>
         </div>

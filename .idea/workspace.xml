@@ -6,10 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="581cc308-70ca-4869-8ab0-fc84fce64caa" name="Changes" comment="hw6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw04/common/c2-SuperButton/SuperButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw04/common/c2-SuperButton/SuperButton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw05/Pages.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw05/Pages.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw05/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw05/header/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw05/pages/JuniorPlus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw05/pages/JuniorPlus.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw13/HW13.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw13/HW13.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw13/HW13.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw13/HW13.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw14/HW14.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw14/HW14.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw14/HW14.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw14/HW14.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s2-homeworks/hw14/common/c8-SuperDebouncedInput/SuperDebouncedInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/s2-homeworks/hw14/common/c8-SuperDebouncedInput/SuperDebouncedInput.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hw14&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/denis/WebstormProjects/hws2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -72,7 +74,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
       </set>
     </attachedChunks>
   </component>
@@ -116,7 +118,16 @@
       <workItem from="1732284747482" duration="4076000" />
       <workItem from="1732290454390" duration="3350000" />
       <workItem from="1733126951021" duration="1955000" />
-      <workItem from="1733424133984" duration="3761000" />
+      <workItem from="1733424133984" duration="4643000" />
+      <workItem from="1733473111964" duration="594000" />
+      <workItem from="1733473844408" duration="81000" />
+      <workItem from="1733473954575" duration="1901000" />
+      <workItem from="1734061117771" duration="1331000" />
+      <workItem from="1734064412459" duration="2931000" />
+      <workItem from="1734090239401" duration="735000" />
+      <workItem from="1735847091803" duration="296000" />
+      <workItem from="1736103806590" duration="5708000" />
+      <workItem from="1736435356860" duration="2705000" />
     </task>
     <task id="LOCAL-00001" summary="hw6">
       <option name="closed" value="true" />
