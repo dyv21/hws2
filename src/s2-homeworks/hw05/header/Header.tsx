@@ -13,14 +13,15 @@ export const Header: FC<PropsType> = ({handleOpen}) => {
     const location = useLocation()
     const currentPath = location.pathname
 
-    const pageName =
-        currentPath === PATH.PRE_JUNIOR
-            ? 'Pre-junior'
-            : currentPath === PATH.JUNIOR
-                ? 'Junior'
-                : currentPath === PATH.JUNIOR_PLUS
-                    ? 'Junior +'
-                    : 'Error'
+    const pageNames = {
+        '/': 'Junior +',
+        [PATH.PRE_JUNIOR]: 'Pre-junior',
+        [PATH.JUNIOR]: 'Junior',
+        [PATH.JUNIOR_PLUS]: 'Junior +',
+    };
+
+    const pageName = pageNames[currentPath] || 'Error';
+
     return (
         <>
             <div id={'hw5-header'} className={s.header}>

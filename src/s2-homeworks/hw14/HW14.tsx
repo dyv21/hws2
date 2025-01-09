@@ -31,21 +31,22 @@ const HW14 = () => {
     const [techs, setTechs] = useState<string[]>([])
 
     const sendQuery = (value: string) => {
-        setLoading(true)
+        setLoading(true);
         getTechs(value)
-            .then((res) => {
-                // делает студент
-
-                // сохранить пришедшие данные
-
-                //
-            })
+          .then((res) => {
+              // @ts-ignore
+              setTechs(res.data.techs);
+          })
+          .finally(() => {
+              setLoading(false);
+          });
     }
 
     const onChangeText = (value: string) => {
+        setLoading(true)
         setFind(value)
         // делает студент
-
+        setSearchParams({ find: value });
         // добавить/заменить значение в квери урла
         // setSearchParams(
 
